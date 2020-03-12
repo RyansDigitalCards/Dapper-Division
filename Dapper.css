@@ -143,24 +143,28 @@ img.profile-pic {
 	background-color: #ffffff;
 }
 
+.bg-color-black {
+	background-color: #000000;
+}
+
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 12px;
 }
 
@@ -169,7 +173,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #000000;
+	background-color: #ffffff;
 	height: 48px;
 	padding-left: 24px;
 	padding-right: 24px;
