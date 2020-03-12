@@ -136,7 +136,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #ffffff;
+	background-color: #000000;
 }
 
 .bg-color-white {
@@ -146,21 +146,21 @@ img.profile-pic {
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 12px;
 }
 
