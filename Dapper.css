@@ -140,7 +140,7 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-color: #ffffff;
+	background-color: #000000;
 }
 
 .text-name {
@@ -169,7 +169,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #000000;
+	background-color: #ffffff;
 	height: 48px;
 	padding-left: 24px;
 	padding-right: 24px;
@@ -177,7 +177,7 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: white;
+	color: black;
 	font-weight: 300;
 }
 
