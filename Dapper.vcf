@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+ORG:The Dapper Division Barbershop
+TEL;type=WORK;type=VOICE:(914)346-8836
+item1.URL;type=pref:https://www.instagram.com/thedapperdivision/
+item1.URL;type=pref:https://www.facebook.com/dapperdivision/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
